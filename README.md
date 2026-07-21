@@ -78,7 +78,7 @@ classic-ai/
 
 ## 🚀 Démo live
 
-Une boutique réelle de 50 000 produits tourne sur Classic AI en production.
+Une démo fonctionnelle tourne sur un catalogue réel de 50 000 produits.
 
 👉 **[Voir la démo](https://maorediscount-api.vercel.app)**
 

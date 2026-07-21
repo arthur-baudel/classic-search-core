@@ -103,7 +103,7 @@ Testez par exemple :
 ### Installation
 
 ```bash
-git clone https://github.com/votre-compte/classic-ai.git
+git clone https://github.com/arthur-baudel/classic-ai.git
 cd classic-ai
 npm install
 ```
@@ -210,7 +210,7 @@ MIT — libre d'utilisation, y compris commerciale.
 Développé par **Classic AI**
 
 - Démo : [maorediscount-api.vercel.app](https://maorediscount-api.vercel.app)
-- Contact : [votre email]
+- Contact : [arthur.baudel@yahoo.fr]
 
 ---
 
